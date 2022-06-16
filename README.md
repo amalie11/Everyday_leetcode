@@ -3,4 +3,5 @@
 
 | Number |Leetcode Question | Link |
 | --- | --- | --- |
-|Qs.1| `string manipulation` | https://github.com/amalie11/python-webscraping |
+|Qs.58| `Length of last word` | https://github.com/amalie11/Everyday_leetcode/blob/main/string/easy/length_lastword.py |
+|Qs.344| `Reverse String` |  |
