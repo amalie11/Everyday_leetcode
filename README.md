@@ -4,4 +4,5 @@
 | Number |Leetcode Question | Link |
 | --- | --- | --- |
 |Qs.58| `Length of last word` | https://github.com/amalie11/Everyday_leetcode/blob/main/string/easy/length_lastword.py |
-|Qs.344| `Reverse String` |  |
+|Qs.344| `Reverse String` | https://github.com/amalie11/Everyday_leetcode/blob/main/string/easy/reverse_string.py |
+|Qs.1221| `Split a string in balanced strings` |  |
