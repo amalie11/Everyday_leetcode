@@ -5,4 +5,5 @@
 | --- | --- | --- |
 |Qs.58| `Length of last word` | https://github.com/amalie11/Everyday_leetcode/blob/main/string/easy/length_lastword.py |
 |Qs.344| `Reverse String` | https://github.com/amalie11/Everyday_leetcode/blob/main/string/easy/reverse_string.py |
-|Qs.1221| `Split a string in balanced strings` |  |
+|Qs.1221| `Split a string in balanced strings` | https://github.com/amalie11/Everyday_leetcode/blob/main/string/easy/split_balanced_string.py |
+|Qs.415| `Add Strings` | https://github.com/amalie11/Everyday_leetcode/blob/main/string/easy/add_strings.py |
