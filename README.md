@@ -10,3 +10,8 @@
 |Qs.1662| `Check if 2 string arrays are equivalent` |https://github.com/amalie11/Everyday_leetcode/blob/main/string/easy/2strings_equivalent.py|
 |Qs.2114| `Maximum number of words found in sentence` |https://github.com/amalie11/Everyday_leetcode/blob/main/string/easy/maxwords_insentence.py |
 |Qs.1047| `Remove duplicate strings` | https://github.com/amalie11/Everyday_leetcode/blob/main/string/easy/remove_duplicates_string.py |
+|Qs.1935| `Maximum number of words you can type` | https://github.com/amalie11/Everyday_leetcode/blob/main/string/easy/maxwords_cantype.py |
+|Qs.434| `Number of segments in a string` | https://github.com/amalie11/Everyday_leetcode/blob/main/string/easy/numof_segments_instring.py |
+|Qs.1528| `Shuffle String` | https://github.com/amalie11/Everyday_leetcode/blob/main/string/easy/shuffle_string.py |
+|Qs.20| `Valid Parentheses` | https://github.com/amalie11/Everyday_leetcode/blob/main/string/easy/valid_parentheses.py |
+|Qs.709| `To Lower Case` | https://github.com/amalie11/Everyday_leetcode/blob/main/string/easy/tolower.py |
